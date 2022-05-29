@@ -1,0 +1,24 @@
+{
+  "name": "BotsOn-Front-Builder",
+  "version": "1.0.0",
+  "description": "Extension front-end builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirbose/BotsOn-Front-Builder.git"
+  },
+  "keywords": [],
+  "author": "BotsOn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BotsOn-app/BotsOn-Front-Builder/issues"
+  },
+  "homepage": "https://github.com/BotsOn-app/BotsOn-Front-Builder#readme",
+  "dependencies": {
+    "typescript": "^4.7.2",
+    "yaml": "^2.1.0"
+  }
+}
