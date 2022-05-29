@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/BotsOn-app/BotsOn-Front-Builder/issues"
   },
-  "homepage": "https://github.com/BotsOn-app/BotsOn-Front-Builder#readme"
+  "homepage": "https://github.com/BotsOn-app/BotsOn-Front-Builder#readme",
+  "dependencies": {
+    "typescript": "^4.7.2",
+    "yaml": "^2.1.0"
+  }
 }
