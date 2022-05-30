@@ -4,7 +4,8 @@
   "description": "Extension front-end builder",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "test": "npm run build && node tests/test.js"
   },
   "repository": {
     "type": "git",

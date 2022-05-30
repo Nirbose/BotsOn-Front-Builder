@@ -1,0 +1,6 @@
+me: "string"
+coucou:
+  test: "test"
+  trois: 3
+on: 
+  - test
